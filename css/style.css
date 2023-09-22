@@ -227,6 +227,7 @@ header {
     border-radius: 10px;
     border-width: 3px;
     border-color: rgba(45, 54, 72, 1);
+    padding: 5px;
 }
 
 .recommendedprice {
